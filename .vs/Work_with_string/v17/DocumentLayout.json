@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lessons\\C\u041F (\u041D\u0438\u043A\u043E\u043D\u043E\u0432\u0430 \u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u043D\u0430)\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0420 3\\Work_with_string\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{604CF9EB-5679-4359-9354-CB5D17D3B0AF}|Work_with_string\\Work_with_string.vcxproj|E:\\Lessons\\C\u041F (\u041D\u0438\u043A\u043E\u043D\u043E\u0432\u0430 \u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u043D\u0430)\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0420 3\\Work_with_string\\Work_with_string\\Work_with_string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{604CF9EB-5679-4359-9354-CB5D17D3B0AF}|Work_with_string\\Work_with_string.vcxproj|solutionrelative:Work_with_string\\Work_with_string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 449,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Work_with_string.cpp",
+              "DocumentMoniker": "E:\\Lessons\\C\u041F (\u041D\u0438\u043A\u043E\u043D\u043E\u0432\u0430 \u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u043D\u0430)\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0420 3\\Work_with_string\\Work_with_string\\Work_with_string.cpp",
+              "RelativeDocumentMoniker": "Work_with_string\\Work_with_string.cpp",
+              "ToolTip": "E:\\Lessons\\C\u041F (\u041D\u0438\u043A\u043E\u043D\u043E\u0432\u0430 \u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u043D\u0430)\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0420 3\\Work_with_string\\Work_with_string\\Work_with_string.cpp",
+              "RelativeToolTip": "Work_with_string\\Work_with_string.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T15:42:27.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
